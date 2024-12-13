@@ -1,27 +1,26 @@
 # Daily Learning: YYYY-MM-DD
 
-## 📚 오늘 배운 내용
-- [주제 1]: [구체적인 내용 요약]
-- [주제 2]: [구체적인 내용 요약]
+## 📚 What I Learned Today
+- [Topic 1]: [Summary of specific content]
 
 ---
 
-## 💡 인사이트 및 느낀 점
-- [배우면서 새롭게 깨달은 점]
-- [중요하거나 기억에 남는 내용]
+## 💡 Insights and Reflections
+- [New realizations while learning]
+- [Important or memorable content]
 
 ---
 
-## 🛠 실습 및 코드
+## 🛠 Practice and Code
 
 ---
 
-## 🔍 발견한 문제 및 해결 방법
-- 문제: [직면한 문제를 간단히 설명]
-- 해결: [문제를 해결한 방법과 과정]
+## 🔍 Problems Encountered and Solutions
+- Problem: [Brief description of the problem faced]
+- Solution: [How the problem was solved and the process]
 
 ---
 
-## 🔖 참고 자료
-- [링크 1: 관련 문서/가이드/튜토리얼]
-- [링크 2: 관련 블로그/강의 등]
+## 🔖 References
+- [Link 1: Related document/guide/tutorial]
+- [Link 2: Related blog/lecture, etc.]
